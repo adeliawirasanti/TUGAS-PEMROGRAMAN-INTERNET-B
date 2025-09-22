@@ -118,7 +118,7 @@ Berikut adalah tampilan dari project PHP yang sudah dibuat:
 
 ### 1. Menu Utama (Index)
 Halaman awal untuk navigasi ke semua fitur (Form Ucapan, Kalkulator, Bilangan Ganjil/Genap, Nilai Huruf, Menu Makanan, dan Biodata).
-<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/fc1cb139-f268-4ea8-9fc7-8f203ed5b647" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/d8c9e8f6-977f-4b59-8159-07ccfc73375c" />
 
 ---
 
