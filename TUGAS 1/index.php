@@ -87,7 +87,7 @@ nav a:hover {
 <body>
 <header>
   <h1>SELAMAT DATANG!</h1>
-  <h2>Praktikum Pemrograman Internet</h2>
+  <h2>Praktik PHP Dasar (Variabel, Operator, Kondisi)</h2>
 </header>
 
 <div class="main">
