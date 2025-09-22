@@ -101,7 +101,7 @@ Berikut adalah tampilan dari project PHP yang sudah dibuat:
 
 ### 1. Menu Utama (Index)
 Halaman awal untuk navigasi ke semua fitur (Daftar Barang, Daftar Mahasiswa, Daftar Harga Barang, Bilangan Genap, Array Multidimensi, dan Array + Kondisi).  
-<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/641149a2-5b9d-48ca-9fd5-50ae3a25a21d" />
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/9283248b-0fb5-434c-92f5-d1be13b7abfa" />
 
 ---
 
